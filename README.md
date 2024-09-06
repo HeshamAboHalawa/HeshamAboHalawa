@@ -2,6 +2,12 @@
 - 🌱 I’m currently learning Flutter always do.
 - 💬 Ask me about anything in Flutter.
 - 📫 How to reach me: Hesham__@live.com
+
+<h3 align="center">Junior Flutter Dev & Sr.Graphic Designer</h3>
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/31604881/155272648-a797ca5b-d9b6-4327-8c32-ae775c7d5bfc.gif" alt="coding-banner" />
+</p>
 <!--
 **HeshamAboHalawa/HeshamAboHalawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
