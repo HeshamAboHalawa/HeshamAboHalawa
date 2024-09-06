@@ -1,5 +1,7 @@
-## Hi there 👋
-
+## Hi there 👋 i'm Hesham
+- 🌱 I’m currently learning Flutter always do.
+- 💬 Ask me about anything in Flutter.
+- 📫 How to reach me: Hesham__@live.com
 <!--
 **HeshamAboHalawa/HeshamAboHalawa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
